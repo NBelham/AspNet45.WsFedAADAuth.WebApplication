@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace WsFedAADAuth.dotnet45.WebApplication
+namespace dotnet45.WsFedAADAuth.WebApplication
 {
     public class BundleConfig
     {

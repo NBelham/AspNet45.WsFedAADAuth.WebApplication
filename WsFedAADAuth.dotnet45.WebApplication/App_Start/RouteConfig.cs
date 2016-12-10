@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace WsFedAADAuth.dotnet45.WebApplication
+namespace dotnet45.WsFedAADAuth.WebApplication
 {
     public class RouteConfig
     {

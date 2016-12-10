@@ -19,9 +19,9 @@ using System.Threading.Tasks;
 using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartup(typeof(WsFedAADAuth.dotnet45.WebApplication.Startup))]
+[assembly: OwinStartup(typeof(dotnet45.WsFedAADAuth.WebApplication.Startup))]
 
-namespace WsFedAADAuth.dotnet45.WebApplication
+namespace dotnet45.WsFedAADAuth.WebApplication
 {
     public partial class Startup
     {

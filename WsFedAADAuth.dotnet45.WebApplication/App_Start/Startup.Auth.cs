@@ -30,7 +30,7 @@ using System.Threading.Tasks;
 using System.Diagnostics;
 using System.IdentityModel.Tokens;
 
-namespace WsFedAADAuth.dotnet45.WebApplication
+namespace dotnet45.WsFedAADAuth.WebApplication
 {
 	public partial class Startup
 	{

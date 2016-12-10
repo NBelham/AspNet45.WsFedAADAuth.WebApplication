@@ -25,7 +25,7 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.WsFederation;
 using Microsoft.Owin.Security;
 
-namespace WsFedAADAuth.dotnet45.WebApplication.Controllers
+namespace dotnet45.WsFedAADAuth.WebApplication.Controllers
 {
     public class AccountController : Controller
     {

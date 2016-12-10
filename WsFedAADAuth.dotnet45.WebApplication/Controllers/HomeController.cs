@@ -5,7 +5,7 @@ using System.Security.Claims;
 using System.Web;
 using System.Web.Mvc;
 
-namespace WsFedAADAuth.dotnet45.WebApplication.Controllers
+namespace dotnet45.WsFedAADAuth.WebApplication.Controllers
 {
 	public class HomeController : Controller
 	{
