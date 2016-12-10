@@ -1,10 +1,10 @@
 ---
 services: active-directory
 platforms: dotnet
-author: Nigel belham
+author: Nigel Belham
 ---
 
-# Integrating an ASP.NET MVC 5 Web Application against an Azure AD tenant using WS-Federation
+# Integrating an ASP.NET 4.5 MVC 5 Web Application against an Azure AD tenant using WS-Federation
 
 This sample shows how to build a .Net MVC web application that uses WS-Federation to sign-in users from a single Azure Active Directory tenant, using the ASP.Net WS-Federation OWIN middleware.
 
